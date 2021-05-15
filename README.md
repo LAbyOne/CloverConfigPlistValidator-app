@@ -7,6 +7,6 @@ Little app to help validate your config.plist
 ##
 Direct [Download](https://github.com/LAbyOne/CloverConfigPlistValidator-app/raw/main/CloverConfigPlistValidator.dmg)
 ##
-This is maeant to be used with ccpv installed by clover into `/usr/local/bin`.
+This is meant to be used with ccpv installed by clover into `/usr/local/bin`.
 ##
 
