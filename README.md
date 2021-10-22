@@ -5,7 +5,7 @@ Little app to help validate your config.plist
 ##
 ![img src](Image2.png)
 ##
-This new version will work either:
+This updated version will work either:
 
  with ccpv installed by clover into `/usr/local/bin`,
 
