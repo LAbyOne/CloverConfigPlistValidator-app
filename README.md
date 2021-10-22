@@ -1,4 +1,4 @@
-# CloverConfigPlistValidator-app
+# CloverConfigPlistValidator 1.1
 Little app to help validate your config.plist
 
 ![img src](Image.png)
@@ -7,6 +7,10 @@ Little app to help validate your config.plist
 ##
 Direct [Download](https://github.com/LAbyOne/CloverConfigPlistValidator-app/raw/main/CloverConfigPlistValidator.dmg)
 ##
-This is meant to be used with ccpv installed by clover into `/usr/local/bin`.
+This will work either:
+
+ with ccpv installedby clover into `/usr/local/bin`,
+
+or use the one compiled into Clover source, will it be `ccpv or CloverConfigPlistValidator_xxxx`.
 ##
 
