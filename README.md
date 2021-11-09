@@ -17,5 +17,5 @@ This updated version will work either:
 
 or use the one compiled into Clover source, will it be `ccpv or CloverConfigPlistValidator_xxxx`.
 ##
-Direct [Download](https://github.com/LAbyOne/CloverConfigPlistValidator-app/raw/main/CloverConfigPlistValidator_1.2.dmg)
+Direct [Download](https://github.com/LAbyOne/CloverConfigPlistValidator-app/raw/main/CloverConfigPlistValidator_1.3.dmg)
 ##
