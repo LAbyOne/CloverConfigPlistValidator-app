@@ -2,7 +2,7 @@
 
 # CloverConfigPlistValidator
 
-##
+#
 Version  1.3 new Icon and GUI
 
 Added search path for those who Clones Clover (as is from github i.e. CloverBootloader) 
