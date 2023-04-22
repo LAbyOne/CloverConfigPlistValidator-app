@@ -1,6 +1,6 @@
-<img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="Image.png" align="right">
+<img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="images/Image.png" align="right">
 
-# CloverConfigPlistValidator
+# CloverConfigPlistValidator 
 
 #
 Version  1.3 new Icon and GUI
@@ -8,9 +8,9 @@ Version  1.3 new Icon and GUI
 Added search path for those who Clones Clover (as is from github i.e. CloverBootloader) 
 
 #
-![img src](Image2.png)
+![img src](images/Image2.png)
 ##
-![img src](Image3.png)
+![img src](images/Image3.png)
 ##
 This updated version will work either:
 
