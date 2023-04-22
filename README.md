@@ -1,11 +1,12 @@
+<img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="Image.png" align="right">
+
 # CloverConfigPlistValidator
 
 ##
 Version  1.3 new Icon and GUI
 
 Added search path for those who Clones Clover (as is from github i.e. CloverBootloader) 
-##
-![img src](Image.png)
+
 #
 ![img src](Image2.png)
 ##
